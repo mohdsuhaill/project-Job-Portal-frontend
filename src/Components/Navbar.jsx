@@ -7,7 +7,6 @@ const Navbar = () => {
   const handleMenuToggler = () => {
     setIsMenuOpen(!isMenuOpen);
   };
-
   const navItems = [
     { path: "/", title: "Start a Search" },
     { path: "/my-job", title: "My Jobs" },
@@ -71,7 +70,6 @@ const Navbar = () => {
           </li>
         ))}
       <li className="text-white py-1"> <Link to="/login" >Login</Link></li>
-
         </ul>
     </div>
     </header>
