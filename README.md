@@ -2,7 +2,7 @@
 
 Design Phase:
 
- Sketch the layout of your application’s interface, focusing on usability and user experience. Use CSS frameworks like Bootstrap for a responsive design that adapts to various screen sizes.
+ Sketch the layout of your application’s interface, focusing on usability and user experience. Use CSS frameworks like Twalind  for a responsive design that adapts to various screen sizes.
 
 Development Phase:
 
