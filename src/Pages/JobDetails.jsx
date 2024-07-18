@@ -22,7 +22,6 @@ const JobDetails = () => {
             Swal.fire(`Entered URL: ${url}`);
           }
     }
-
     return (
         <div className='max-w-screen-sm'>
             <PageHeader  title={"single job Page "} path={"single Job"}/>
