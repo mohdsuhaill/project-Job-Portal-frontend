@@ -23,11 +23,11 @@ const JobDetails = () => {
           }
     }
     return (
-        <div className='max-w-screen-sm'>
+        <div className='max-w-screen-2xl container mx-auto xl:px-24 px-4'>
             <PageHeader  title={"single job Page "} path={"single Job"}/>
             <h2>Job Details: {id}</h2>
             <h1> {job.jobTitle} </h1>
-
+             <h1>submit Your Resume </h1>
             <button className='bg-blue px-8 py-2 text-white' onClick={handleApply}>Apply Now </button>
         </div>
     );
